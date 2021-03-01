@@ -1,0 +1,59 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header{
+    background-color:deepskyblue;
+    height:40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+main{
+    background-color:cornsilk;
+    height:700px;
+    margin-bottom: 10px;;
+
+}
+li{
+    list-style: none;
+    float:left;
+    margin-inline-end: 6px;
+    color:floralwhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.h-logo{
+    float:left;
+    color:floralwhite;
+    font-family:cursive;
+    margin-inline-end: 20px;
+}
+
+footer{
+    background-color: cornflowerblue;
+    height:fit-content;
+}
+
+.f-logo{
+    float:left;
+    color:floralwhite;
+    font-family:cursive;
+    margin-inline-end: 20px;
+}
+
+.items{
+    float:left;
+}
+
+img{
+    height:150px;
+    width:150px;
+    margin:6px;
+}
+
+.contact-form{
+   margin-top: 220px;
+}
+
+
